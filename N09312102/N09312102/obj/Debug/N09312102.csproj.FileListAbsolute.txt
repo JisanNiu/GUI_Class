@@ -1,0 +1,11 @@
+C:\Users\MEGAS\source\repos\N09312102\N09312102\bin\Debug\N09312102.exe.config
+C:\Users\MEGAS\source\repos\N09312102\N09312102\bin\Debug\N09312102.exe
+C:\Users\MEGAS\source\repos\N09312102\N09312102\bin\Debug\N09312102.pdb
+C:\Users\MEGAS\source\repos\N09312102\N09312102\obj\Debug\N09312102.csproj.AssemblyReference.cache
+C:\Users\MEGAS\source\repos\N09312102\N09312102\obj\Debug\N09312102.Form1.resources
+C:\Users\MEGAS\source\repos\N09312102\N09312102\obj\Debug\N09312102.Properties.Resources.resources
+C:\Users\MEGAS\source\repos\N09312102\N09312102\obj\Debug\N09312102.csproj.GenerateResource.cache
+C:\Users\MEGAS\source\repos\N09312102\N09312102\obj\Debug\N09312102.csproj.CoreCompileInputs.cache
+C:\Users\MEGAS\source\repos\N09312102\N09312102\obj\Debug\N09312102.exe
+C:\Users\MEGAS\source\repos\N09312102\N09312102\obj\Debug\N09312102.pdb
+C:\Users\MEGAS\source\repos\N09312102\N09312102\obj\Debug\N09312102.Form_Button.resources
